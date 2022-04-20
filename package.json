@@ -1,0 +1,26 @@
+{
+  "name": "forwardstack-utils",
+  "version": "1.0.0",
+  "description": "A collection on generic JS and TS utils",
+  "author": "@mitcsutt",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forwardstack/utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "utilities",
+    "helpers"
+  ],
+  "bugs": {
+    "url": "https://github.com/forwardstack/utils/issues"
+  },
+  "homepage": "https://github.com/forwardstack/utils#readme",
+  "dependencies": {}
+}
